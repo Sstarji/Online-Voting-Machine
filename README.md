@@ -15,6 +15,8 @@
 . User Management
 . Reset Application
 
+
+
 # Steps to Run Project:
 . After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
 
@@ -33,6 +35,13 @@
 . After setting up all these, go to URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
 
 . All the login details are provided inside the project folder, check that out and enter in order to use it.
+
+
+# Demo Video :
+
+
+https://github.com/Sstarji/Online-Voting-Machine/assets/86143668/218ebdbf-bfe3-4665-9cd9-d5ea3f4cffdd
+
  
 
 
