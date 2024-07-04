@@ -1,0 +1,20 @@
+{
+	"description": "The Yash Jain Voting Machine",
+	"name": "yashjain/framework",
+	"type": "project",
+	"homepage": "https://github.com",
+	"license": "MIT",
+	"support": {
+		
+	},
+	"require": {
+		"php": ">=5.3.7"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}

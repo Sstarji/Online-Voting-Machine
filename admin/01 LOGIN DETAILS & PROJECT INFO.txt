@@ -1,0 +1,17 @@
+
+
+**Database Name: voting Machine**
+
+**Developed by Yash Jain**
+
+**Recommended PHP Version 5.6.3 and Newer**
+
+
+**Admin Login Details**
+
+Username: liam
+Password: Password@123
+
+
+
+**Default Password for both voters and new admin will be the same as their usernames**
