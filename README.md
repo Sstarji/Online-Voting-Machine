@@ -15,8 +15,9 @@
 . User Management
 . Reset Application
 
-# Steps to Run Project
+# Steps to Run Project:
 . After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
+
 . There you’ll find a folder naming “htdocs”.
 . Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
 . Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
